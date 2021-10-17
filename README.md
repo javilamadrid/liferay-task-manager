@@ -1,5 +1,5 @@
 # Liferay-task-manager
-Liferay Task manager
+Liferay Task manager para versión 7.4.1-ga2
 
 ## Onboarding
 
