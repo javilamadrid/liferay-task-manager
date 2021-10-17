@@ -1,0 +1,10 @@
+Bundle-Name: task-manager-api
+Bundle-SymbolicName: com.javilamadrid.taskmanager.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.javilamadrid.taskmanager.exception,\
+	com.javilamadrid.taskmanager.model,\
+	com.javilamadrid.taskmanager.service,\
+	com.javilamadrid.taskmanager.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../task-manager-service/service.xml
